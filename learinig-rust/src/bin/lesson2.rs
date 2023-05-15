@@ -1,6 +1,6 @@
 // subtract function 
 fn sub(a: i32 ,b: i32) -> i32{
-    a-b;
+    a-b
 }
 
 // main function our entry point f the application 
@@ -12,6 +12,8 @@ fn main(){
     let multiply  = 2 * 7;
     let five = sub(8,3);
 
+    
+    println!("{}",five);
     // rem = 0  
     let rem = 6 % 3;
 
