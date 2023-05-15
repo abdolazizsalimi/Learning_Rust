@@ -1,5 +1,3 @@
-
-
 fn main(){
     let num = 4;
     if num > 5 {
