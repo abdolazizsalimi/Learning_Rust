@@ -92,4 +92,3 @@ The course is divided into several sections, each focusing on a specific topic o
    - Learning Resources and Further Reading
    - Next Steps in Rust Development
 
-
