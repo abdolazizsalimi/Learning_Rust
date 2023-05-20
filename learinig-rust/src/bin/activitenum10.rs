@@ -19,5 +19,4 @@ fn main(){
     };
 display_quantity(&my_item);
 display_id(&my_item);
-
 }
